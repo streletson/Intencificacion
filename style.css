@@ -94,3 +94,9 @@ header a{
 table, td, th{
     border: 2px solid black;
 }
+#registro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
