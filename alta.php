@@ -7,7 +7,10 @@
 </head>
 <body id="registro">
     <div>
-
+    <form action=""></form>
+    <label for="">
+        <input type="text">hola
+    </label>
     </div>
 </body>
 </html>
